@@ -45,7 +45,7 @@
 	"ping_description": "اختبار وقت استجابة البوت.",
 	"temp_description": "الرومات المؤقتة.",
 	"deletebackup_description": "حذف النسخة الإحتياطية.",
-	"short_description": "اختصار رابط.",
+	"short_description": "لأختصار رابط.",
 	"roll_description": "رمي حجر نرد.",
 	"points_description": "النقاط التي يمكن أن تُعطى من قبل المشرفين.",
 	"usage": "الاستخدام:",
